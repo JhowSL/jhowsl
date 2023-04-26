@@ -27,10 +27,11 @@ No meu perfil do GitHub, você encontrará projetos pessoais que mostram meu pro
   <img align="center" alt="JhowTS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin-right: 10px;" />
 
   <img align="center" alt="JhowJava" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin-right: 10px;" />
+  <img align="center" alt="JhowSpring" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
   <img align="center" alt="JhowDcoker" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin-right: 10px;" />
 
-  <img align="center" alt="JhowSpring" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
 </div>
 
 ##
