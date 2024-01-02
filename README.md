@@ -2,19 +2,19 @@
 
 #### [EN-US]
 
-Hello, my name is Jonathan and I am a 20-year-old student of Analysis and Systems Development. Currently, I work as a full-stack intern at Vivo Telefônica Brasil, where I use my skills in TypeScript, Java, and Docker to create innovative solutions.
+Hello, my name is Jonathan and I am a 21-year-old student of Analysis and Systems Development. Currently, I work as a full-stack intern at Vivo Telefônica Brasil, where I use my skills in TypeScript, Java, and Docker to create innovative solutions.
 
 My passion for technology has motivated me to delve deeper into Java and Docker in my spare time, with the goal of becoming a solutions architect. Although I face challenges such as ADHD and Bipolarity, technology is a tool that helps me overcome them and move forward in my career.
 
-On my GitHub profile, you can find personal projects that showcase my progress in studying different languages and technologies. I love learning new things and believe that technology can change the world. If you share the same passion for technology and innovation, I would love to connect with you and discuss possible collaborations.
+I love learning new things and believe that technology can change the world. If you share the same passion for technology and innovation, I would love to connect with you and discuss possible collaborations.
 
 #### [PT-BR]
 
-Olá, meu nome é Jonathan e sou um estudante de Análise e Desenvolvimento de Sistemas, com 20 anos de idade. Atualmente, sou estagiário full Stack na Vivo Telefônica Brasil, onde estou usando minhas habilidades em TypeScript, Java e Docker para criar soluções inovadoras.
+Olá, meu nome é Jonathan e sou um estudante de Análise e Desenvolvimento de Sistemas, com 21 anos de idade. Atualmente, sou estagiário full Stack na Vivo Telefônica Brasil, onde estou usando minhas habilidades em TypeScript, Java e Docker para criar soluções inovadoras.
 
 Minha paixão por tecnologia me motivou a estudar a fundo o Java e o Docker durante meu tempo livre, com o objetivo de me tornar um arquiteto de soluções. Embora enfrente alguns desafios como TDAH e Bipolaridade, a tecnologia é uma ferramenta que me ajuda a lidar com esses desafios e a seguir em frente na minha carreira.
 
-No meu perfil do GitHub, você encontrará projetos pessoais que mostram meu progresso em estudos de linguagens e tecnologias. Adoro aprender coisas novas e acredito que a tecnologia pode mudar o mundo. Se você compartilha da mesma paixão por tecnologia e inovação, adoraria me conectar com você e discutir possíveis colaborações.
+Adoro aprender coisas novas e acredito que a tecnologia pode mudar o mundo. Se você compartilha da mesma paixão por tecnologia e inovação, adoraria me conectar com você e discutir possíveis colaborações.
 
 ##
 
