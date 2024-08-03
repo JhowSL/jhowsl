@@ -1,46 +1,57 @@
-### Olá Mundo || Hello World
+# Olá Mundo || Hello World
 
-#### [EN-US]
+## [EN-US]
 
-Hello, my name is Jonathan and I am a 21-year-old student of Analysis and Systems Development. Currently, I work as a full-stack intern at Vivo Telefônica Brasil, where I use my skills in TypeScript, Java, and Docker to create innovative solutions.
+Hello, my name is Jonathan. In June 2024, I completed the first part of my academic journey with a degree in Analysis and Systems Development. I previously interned as a full-stack developer at Vivo Telefônica Brasil for two years, where I gained extensive experience with TypeScript, Docker, and Azure (Boards, Repos, Cloud).
 
-My passion for technology has motivated me to delve deeper into Java and Docker in my spare time, with the goal of becoming a solutions architect. Although I face challenges such as ADHD, technology is a tool that helps me overcome them and move forward in my career.
+Over the past few months, I have been perfecting my skills in various technologies through multiple projects, including developing a marketplace as part of a college project using TypeScript, React, TailwindCSS, Next.js, and Docker. I am passionate about technology and enjoy planning and organizing projects, similar to Software Engineering.
 
-I love learning new things and believe that technology can change the world. If you share the same passion for technology and innovation, I would love to connect with you and discuss possible collaborations.
+I love learning new things and believe that technology can change the world by solving people's problems and improving their lives. If you share the same passion for technology and innovation, I would love to connect with you and discuss potential collaborations.
 
-#### [PT-BR]
+## [PT-BR]
 
-Olá, meu nome é Jonathan e sou um estudante de Análise e Desenvolvimento de Sistemas, com 21 anos de idade. Atualmente, sou estagiário full Stack na Vivo Telefônica Brasil, onde estou usando minhas habilidades em TypeScript, Java e Docker para criar soluções inovadoras.
+Olá, meu nome é Jonathan. Em junho de 2024, concluí a primeira parte da minha jornada acadêmica com um diploma em Análise e Desenvolvimento de Sistemas. Anteriormente, fui estagiário full stack na Vivo Telefônica Brasil por dois anos, onde adquiri vasta experiência com TypeScript, Docker e Azure (Boards, Repos, Cloud).
 
-Minha paixão por tecnologia me motivou a estudar a fundo o Java e o Docker durante meu tempo livre, com o objetivo de me tornar um arquiteto de soluções. Embora enfrente alguns desafios como TDAH, a tecnologia é uma ferramenta que me ajuda a lidar com esses desafios e a seguir em frente na minha carreira.
+Nos últimos meses, venho aperfeiçoando minhas habilidades em diversas tecnologias através de múltiplos projetos, incluindo o desenvolvimento de um marketplace como parte de um projeto de faculdade utilizando TypeScript, React, TailwindCSS, Next.js e Docker. Sou apaixonado por tecnologia e gosto de planejar e organizar projetos, semelhante à Engenharia de Software.
 
-Adoro aprender coisas novas e acredito que a tecnologia pode mudar o mundo. Se você compartilha da mesma paixão por tecnologia e inovação, adoraria me conectar com você e discutir possíveis colaborações.
+Adoro aprender coisas novas e acredito que a tecnologia pode mudar o mundo, resolvendo os problemas das pessoas e melhorando suas vidas. Se você compartilha a mesma paixão por tecnologia e inovação, adoraria me conectar com você e discutir possíveis colaborações.
 
-##
+***
 
----
-<div style="display: flex; justify-content: center;">
-  <img align="center" alt="JhowGit" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right: 10px;" />
+ <div style="display: flex; justify-content: space-between;">
+  <img align="center" alt="JhowGit" height="60" width="50" src="./icons/github-142-svgrepo-com.svg" style="margin-right: 10px;" />
 
-  <img align="center" alt="JhowGitLab" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="margin-right: 10px;" />
+  <img align="center" alt="JhowTS" height="60" width="50" src="./icons/typescript-official-svgrepo-com.svg" style="margin-right: 10px;" />
 
-  <img align="center" alt="JhowTS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="margin-right: 10px;" />
+  <img align="center" alt="JhowReact" height="60" width="50" src="./icons/react-svgrepo-com.svg" style="margin-right: 10px;" />
 
-  <img align="center" alt="JhowJava" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin-right: 10px;" />
-  <img align="center" alt="JhowSpring" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="JhowTailwindCSS" height="60" width="50" src="./icons/tailwind-svgrepo-com.svg" style="margin-right: 10px;" />
 
-  <img align="center" alt="JhowDcoker" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin-right: 10px;" />
+  <img align="center" alt="JhowNextJS" height="60" width="50" src="./icons/nextjs-svgrepo-com.svg" style="margin-right: 10px;" />
 
+  <img align="center" alt="JhowDocker" height="60" width="50" src="./icons/docker-svgrepo-com.svg" />
 
+  <img align="center" alt="JhowPNPM" height="60" width="50" src="./icons/light-pnpm-svgrepo-com.svg" />
+
+  <img align="center" alt="JhowPrisma" height="60" width="50" src="./icons/light-prisma-svgrepo-com.svg" />
+
+  <img align="center" alt="JhowMongo" height="60" width="50" src="./icons/mongodb-svgrepo-com.svg" />
+
+  <img align="center" alt="JhowOpenAI" height="60" width="50" src="./icons/openai-svgrepo-com.svg" />
+
+  <img align="center" alt="JhowJest" height="60" width="50" src="./icons/jest-snapshot-svgrepo-com.svg" />
+
+  <img align="center" alt="JhowSonarLint" height="60" width="50" src="./icons/sonarlint-svgrepo-com.svg" />
 </div>
 
-##
+***
 
----
+<div style="display: flex; justify-content: space-around; padding-top: 3vw;">
+  <a href="https://www.instagram.com/apenasjh0w/" target="_blank">
+    <img align="center" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-<div style="display: flex; justify-content: center;">
-
-  <a href="https://www.instagram.com/apenasjh0w/" target="_blank"><img  align="center" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-  <a href="https://www.linkedin.com/in/jonathan-souza-lima-354967101/" target="_blank"><img align="center" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jonathan-souza-lima-354967101/" target="_blank">
+    <img align="center" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
