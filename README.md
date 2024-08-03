@@ -18,7 +18,7 @@ Adoro aprender coisas novas e acredito que a tecnologia pode mudar o mundo, reso
 
 ***
 
- <div style="display: flex; justify-content: space-between;">
+ <div style="display: flex-box; justify-content: space-between; align-items: center;">
   <img align="center" alt="JhowGit" height="60" width="50" src="./icons/github-142-svgrepo-com.svg" style="margin-right: 10px;" />
 
   <img align="center" alt="JhowTS" height="60" width="50" src="./icons/typescript-official-svgrepo-com.svg" style="margin-right: 10px;" />
@@ -42,6 +42,8 @@ Adoro aprender coisas novas e acredito que a tecnologia pode mudar o mundo, reso
   <img align="center" alt="JhowJest" height="60" width="50" src="./icons/jest-snapshot-svgrepo-com.svg" />
 
   <img align="center" alt="JhowSonarLint" height="60" width="50" src="./icons/sonarlint-svgrepo-com.svg" />
+  
+  <img align="center" alt="JhowAzure" height="60" width="50" src="./icons/azure-v2-svgrepo-com.svg" />
 </div>
 
 ***
